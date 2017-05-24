@@ -1,0 +1,27 @@
+{
+  "name": "easyer-logger",
+  "version": "1.0.0",
+  "description": "a log module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiulanzhu/easyer-logger.git"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "color"
+  ],
+  "author": "Autumn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiulanzhu/easyer-logger/issues"
+  },
+  "homepage": "https://github.com/qiulanzhu/easyer-logger#readme",
+  "dependencies": {
+    "stack-trace": "0.0.10"
+  }
+}
